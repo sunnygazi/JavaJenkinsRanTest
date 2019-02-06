@@ -23,4 +23,4 @@ public class PalindromeStringDemo {
 	
 	} //end of main 
 
-}// end of class 
+} // end of class 
